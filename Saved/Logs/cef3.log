@@ -1,4 +1,3 @@
-[0617/121902.046:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0617/180218.834:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[0617/180219.618:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0617/180219.727:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a527d40f82a7ee33704be80cc05ce4e989b8d2075b7905c105e300b56683871
+size 373

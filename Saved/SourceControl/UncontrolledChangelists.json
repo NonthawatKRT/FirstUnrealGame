@@ -1,12 +1,3 @@
-{
-	"version": 1,
-	"changelists": [
-		{
-			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/Nonthawat/Documents/Unreal Projects/HorrorEngine/Content/HorrorEngine/Maps/Level1.umap"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f358676a3418c78f91b0d7ef88d79b3ae37a6744dddae7dba537a969466a5c7
+size 279

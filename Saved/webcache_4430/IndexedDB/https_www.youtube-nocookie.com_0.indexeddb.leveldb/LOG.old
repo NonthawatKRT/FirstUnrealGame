@@ -1,6 +1,3 @@
-2024/06/13-12:34:14.296 32b4 Creating DB C:/Users/Nonthawat/Documents/Unreal Projects/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/06/13-12:34:14.305 32b4 Reusing MANIFEST C:/Users/Nonthawat/Documents/Unreal Projects/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/13-12:34:17.392 64e4 Level-0 table #5: started
-2024/06/13-12:34:17.399 64e4 Level-0 table #5: 1167 bytes OK
-2024/06/13-12:34:17.403 64e4 Delete type=0 #3
-2024/06/13-12:34:17.405 64e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+version https://git-lfs.github.com/spec/v1
+oid sha256:08c803ed1e3f96183715c3d895df287b14c144a6865066b456df91ea55e1faf7
+size 665
