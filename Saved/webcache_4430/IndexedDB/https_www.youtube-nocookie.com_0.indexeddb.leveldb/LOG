@@ -1,0 +1,15 @@
+2024/06/13-12:34:17.710 32b4 Reusing MANIFEST C:/Users/Nonthawat/Documents/Unreal Projects/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/13-12:34:17.711 32b4 Recovering log #4
+2024/06/13-12:34:17.712 32b4 Reusing old log C:/Users/Nonthawat/Documents/Unreal Projects/HorrorEngine/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/06/13-14:59:03.382 744c Level-0 table #8: started
+2024/06/13-14:59:03.384 744c Level-0 table #8: 190 bytes OK
+2024/06/13-14:59:03.386 744c Delete type=0 #4
+2024/06/13-14:59:03.387 744c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/13-14:59:03.387 744c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/06/13-14:59:03.387 744c Compacting 1@1 + 1@2 files
+2024/06/13-14:59:03.390 744c Generated table #9@1: 18 keys, 534 bytes
+2024/06/13-14:59:03.390 744c Compacted 1@1 + 1@2 files => 534 bytes
+2024/06/13-14:59:03.391 744c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/13-14:59:03.392 744c Delete type=2 #5
+2024/06/13-14:59:03.392 744c Delete type=2 #8
+2024/06/13-14:59:03.392 744c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
